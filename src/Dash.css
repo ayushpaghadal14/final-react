@@ -1,0 +1,14 @@
+.listed ul{
+    list-style: none;
+    padding: 0;
+}
+.listed ul li{
+    margin: 10px 20px ;
+    padding: 10px;
+    background-color: antiquewhite;
+    color: black;
+}   
+.listed ul a{
+    text-decoration: none;
+}
+  
